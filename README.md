@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 39
+## Amount of clients: 40
 
 ## List of clients:
 
@@ -45,6 +45,7 @@
 * WeepCraft 0.2
 * Xatz 0.9b1
 * Radium
+* Trivia (Old Remix)
 
 ## Discord: chocopie#8543
 
