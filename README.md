@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 41
+## Amount of clients: 42
 
 ## List of clients:
 
@@ -28,25 +28,26 @@
 * Ice B10
 * Jello 0.1
 * Jigsaw 0.24
+* LiquidBounce B73 (before crossversion update)
 * Lucid 0.89
 * Mystra
 * Nivia B3
 * Old MoonX
 * Polaris B14
+* Radium
 * Saint 2.3
 * Sigma 3.9
 * SkyLine B28
 * Slowly b12.3
 * Spicy
 * Splash
+* Summer Reborn 3.0
+* Trivia (Old Remix)
 * Venus Recode 0.2.0
 * Virtue
 * Vulture
 * WeepCraft 0.2
 * Xatz 0.9b1
-* Radium
-* Trivia (Old Remix)
-* Summer Reborn 3.0
 
 ## Discord: chocopie#8543
 
