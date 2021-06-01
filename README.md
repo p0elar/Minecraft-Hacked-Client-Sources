@@ -44,5 +44,5 @@
 * Xatz 0.9b1
 * Radium
 
-## My discord: chocopie#8543
+## Discord: chocopie#8543
 
