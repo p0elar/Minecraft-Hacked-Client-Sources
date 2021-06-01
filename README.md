@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 40
+## Amount of clients: 41
 
 ## List of clients:
 
@@ -46,6 +46,7 @@
 * Xatz 0.9b1
 * Radium
 * Trivia (Old Remix)
+* Summer Reborn 3.0
 
 ## Discord: chocopie#8543
 
