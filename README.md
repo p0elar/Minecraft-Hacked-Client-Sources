@@ -1,5 +1,7 @@
 # Minecraft Hacked Client Sources
 
+# JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
+
 ## Amount of clients: 39
 
 ## List of clients:
