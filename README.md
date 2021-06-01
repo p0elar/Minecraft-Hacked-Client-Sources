@@ -1,6 +1,6 @@
 # Minecraft Hacked Client Sources
 
-## Amount of clients: 38
+## Amount of clients: 39
 
 ## List of clients:
 
@@ -42,6 +42,7 @@
 * Vulture
 * WeepCraft 0.2
 * Xatz 0.9b1
+* Radium
 
 ## My discord: chocopie#8543
 
