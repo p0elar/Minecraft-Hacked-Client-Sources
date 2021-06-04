@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 42
+## Amount of clients: 44
 
 ## List of clients:
 
@@ -35,6 +35,7 @@
 * Old MoonX
 * Polaris B14
 * Radium
+* Rainbow
 * Saint 2.3
 * Sigma 3.9
 * SkyLine B28
@@ -47,6 +48,7 @@
 * Virtue
 * Vulture
 * WeepCraft 0.2
+* WintWare
 * Xatz 0.9b1
 
 ## Discord: chocopie#8543
