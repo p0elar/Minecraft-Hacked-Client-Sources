@@ -2,10 +2,11 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 44
+## Amount of clients: 45
 
 ## List of clients:
 
+* 3arthh4ck
 * Astro 2.2.1
 * Autumn
 * Blizzard b1
