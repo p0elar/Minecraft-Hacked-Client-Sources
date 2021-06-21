@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 45
+## Amount of clients: 50
 
 ## List of clients:
 
@@ -25,19 +25,23 @@
 * Faurax
 * Flux B5
 * FusionX 2.0
+* Gamesense 
 * Hush b4
 * Ice B10
 * Jello 0.1
 * Jigsaw 0.24
+* Kami Blue
 * LiquidBounce B73 (before crossversion update)
 * Lucid 0.89
 * Mystra
 * Nivia B3
 * Old MoonX
+* Phobos 1.9.0
 * Polaris B14
 * Radium
 * Rainbow
 * Saint 2.3
+* Seppuku
 * Sigma 3.9
 * SkyLine B28
 * Slowly b12.3
@@ -51,6 +55,7 @@
 * WeepCraft 0.2
 * WintWare
 * Xatz 0.9b1
+* Xulu 1.5.2
 
 ## Discord: chocopie#8543
 
