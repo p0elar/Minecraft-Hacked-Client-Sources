@@ -6,7 +6,6 @@
 
 ## List of clients:
 
-* 3arthh4ck
 * Astro 2.2.1
 * Autumn
 * Blizzard b1
@@ -37,6 +36,7 @@
 * Nivia B3
 * Old MoonX
 * Phobos 1.9.0
+* PingBypass
 * Polaris B14
 * Radium
 * Rainbow
