@@ -4,6 +4,8 @@
 
 ## Amount of clients: 50
 
+faggot please star this before you fork this
+
 ## List of clients:
 
 * Astro 2.2.1
