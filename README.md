@@ -31,6 +31,8 @@ faggot please star this before you fork this
 * Ice B10
 * Jello 0.1
 * Jigsaw 0.24
+* Jigsaw 0.26 (1.8.8)
+* Jigsaw 1.01 (1.12.2)
 * Kami Blue
 * LiquidBounce B73 (before crossversion update)
 * Lucid 0.89
