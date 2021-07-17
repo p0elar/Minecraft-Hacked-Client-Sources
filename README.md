@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 50
+## Amount of clients: 51
 
 ## List of clients:
 
@@ -30,6 +30,7 @@
 * Jello 0.1
 * Jigsaw 0.24
 * Kami Blue
+* Legacy v1.1.2
 * LiquidBounce B73 (before crossversion update)
 * Lucid 0.89
 * Mystra
