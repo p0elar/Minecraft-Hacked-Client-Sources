@@ -4,6 +4,8 @@
 
 ## Amount of clients: 51
 
+faggot please star this before you fork this
+
 ## List of clients:
 
 * Astro 2.2.1
@@ -29,6 +31,8 @@
 * Ice B10
 * Jello 0.1
 * Jigsaw 0.24
+* Jigsaw 0.26 (1.8.8)
+* Jigsaw 1.01 (1.12.2)
 * Kami Blue
 * Legacy v1.1.2
 * LiquidBounce B73 (before crossversion update)
