@@ -62,5 +62,5 @@ faggot please star this before you fork this
 * Xatz 0.9b1
 * Xulu 1.5.2
 
-## Discord: chocopie#8543
+## Discord: retxrd#8543 (newest discord name is in my profile)
 
