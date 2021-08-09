@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 52
+## Amount of clients: 55
 
 faggot please star this before you fork this
 
@@ -28,6 +28,7 @@ faggot please star this before you fork this
 * Flux B5 (minigames)
 * FusionX 2.0 (minigames)
 * Gamesense (anarchy)
+* Helium (minigames)
 * Hush b4 (minigames)
 * Ice B10 (minigames)
 * Jello 0.1 (minigames)
