@@ -2,65 +2,66 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 51
+## Amount of clients: 52
 
 faggot please star this before you fork this
 
 ## List of clients:
 
-* Astro 2.2.1
-* Autumn
-* Blizzard b1
-* Cheatware
-* Debug 1.2.6
-* Delta b3.7
-* Deluge 0.23
-* ETB Reload 0.1
-* Eject v3
-* Envy 0.3
-* Euphoria B7
-* Execution
-* Exist 0.71
-* Fan v3
-* Fan v4
-* Faurax
-* Flux B5
-* FusionX 2.0
-* Gamesense 
-* Hush b4
-* Ice B10
-* Jello 0.1
-* Jigsaw 0.24
-* Jigsaw 0.26 (1.8.8)
-* Jigsaw 1.01 (1.12.2)
-* Kami Blue
-* Legacy v1.1.2
-* LiquidBounce B73 (before crossversion update)
-* Lucid 0.89
-* Mystra
-* Nivia B3
-* Old MoonX
-* Phobos 1.9.0
-* PingBypass
-* Polaris B14
-* Radium
-* Rainbow
-* Saint 2.3
-* Seppuku
-* Sigma 3.9
-* SkyLine B28
-* Slowly b12.3
-* Spicy
-* Splash
-* Summer Reborn 3.0
-* Trivia (Old Remix)
-* Venus Recode 0.2.0
-* Virtue
-* Vulture
-* WeepCraft 0.2
-* WintWare
-* Xatz 0.9b1
-* Xulu 1.5.2
+* Astro 2.2.1 (minigames)
+* Autumn (minigames)
+* Blizzard b1 (minigames)
+* Cheatware (minigames)
+* Cookie (anarchy)
+* Debug 1.2.6 (minigames)
+* Delta b3.7 (minigames)
+* Deluge 0.23 (minigames)
+* ETB Reload 0.1 (minigames)
+* Eject v3 (minigames)
+* Envy 0.3 (minigames)
+* Euphoria B7 (minigames)
+* Execution (minigames)
+* Exist 0.71 (minigames)
+* Fan v3 (minigames)
+* Fan v4 (minigames)
+* Faurax (minigames)
+* Flux B5 (minigames)
+* FusionX 2.0 (minigames)
+* Gamesense (anarchy)
+* Hush b4 (minigames)
+* Ice B10 (minigames)
+* Jello 0.1 (minigames)
+* Jigsaw 0.24 (minigames)
+* Jigsaw 0.26 (1.8.8) (minigames)
+* Jigsaw 1.01 (1.12.2) (minigames)
+* Kami Blue (anarchy)
+* Legacy v1.1.2 (anarchy)
+* LiquidBounce B73 (before crossversion update) (minigames)
+* Lucid 0.89 (minigames)
+* Mystra (minigames)
+* Nivia B3 (minigames)
+* Old MoonX (minigames)
+* Phobos 1.9.0 (anarchy)
+* PingBypass (anarchy)
+* Polaris B14 (minigames)
+* Radium (minigames)
+* Rainbow (minigames)
+* Saint 2.3 (minigames)
+* Seppuku (anarchy)
+* Sigma 3.9 (minigames)
+* SkyLine B28 (minigames)
+* Slowly b12.3 (minigames)
+* Spicy (minigames)
+* Splash (minigames)
+* Summer Reborn 3.0 (minigames)
+* Trivia (Old Remix) (minigames)
+* Venus Recode 0.2.0 (minigames)
+* Virtue (minigames)
+* Vulture (minigames)
+* WeepCraft 0.2 (minigames)
+* WintWare (minigames)
+* Xatz 0.9b1 (minigames)
+* Xulu 1.5.2 (anarchy)
 
 ## Discord: retxrd#8543 (newest discord name is in my profile)
 
