@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 55
+## Amount of clients: 56
 
 faggot please star this before you fork this
 
@@ -61,6 +61,7 @@ faggot please star this before you fork this
 * Vulture (minigames)
 * WeepCraft 0.2 (minigames)
 * WintWare (minigames)
+* Wurst+2 (anarchy)
 * Xatz 0.9b1 (minigames)
 * Xulu 1.5.2 (anarchy)
 
