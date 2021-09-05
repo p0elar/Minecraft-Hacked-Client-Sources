@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 56
+## Amount of clients: 57
 
 faggot please star this before you fork this
 
@@ -39,6 +39,7 @@ faggot please star this before you fork this
 * Legacy v1.1.2 (anarchy)
 * LiquidBounce B73 (before crossversion update) (minigames)
 * Lucid 0.89 (minigames)
+* Massacre (minigames)
 * Mystra (minigames)
 * Nivia B3 (minigames)
 * Old MoonX (minigames)
@@ -65,5 +66,5 @@ faggot please star this before you fork this
 * Xatz 0.9b1 (minigames)
 * Xulu 1.5.2 (anarchy)
 
-## Discord: retxrd#8543 (newest discord name is in my profile)
+## Discord: chocopie#8543 (newest discord name is in my profile)
 
