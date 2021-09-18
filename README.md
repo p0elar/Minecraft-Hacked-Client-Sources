@@ -2,7 +2,7 @@
 
 # JOIN OUR DISCORD: https://discord.gg/SvNtWMPSQk
 
-## Amount of clients: 57
+## Amount of clients: 58
 
 faggot please star this before you fork this
 
@@ -65,6 +65,7 @@ faggot please star this before you fork this
 * Wurst+2 (anarchy)
 * Xatz 0.9b1 (minigames)
 * Xulu 1.5.2 (anarchy)
+* Zamorozka 0.5.3 (1.12.2 client, not sure what this client is)
 
 ## Discord: chocopie#8543 (newest discord name is in my profile)
 
